@@ -5,7 +5,7 @@ const valueRegex = /([^:]*)$/;
 const selectorRegex = /(.*)$/;
 const pxRegex = /\dp/;
 const pxRegex2 = /p$/;
-const speed = 2;
+const speed = 16;
 
 const handleChar = (fullText: string, char: string) => {
     if (openComment && char !== '/') {
