@@ -15,9 +15,11 @@
 * 喜欢助人为乐的开源开发者(xr-storage，Want，wayswipe) 。
 * 丰富的前端工作经验和一些后端(Base PHP)开发经验。
 * 熟悉Vue，React等MVVM框架，包括Vuex，Redux，Hooks，TypeScript，基于Umi和ant design的开发经验。
-* 卓越的(我知道这么吹是不对的)CSS能力，认为“天下没有不可以布的局”，熟悉sass，less，stylus
+* 卓越的CSS能力，熟悉sass，less，stylus。
+* webVR 开发经验。
+* 原生微信小程序 & 小程序云开发
 * 熟悉webpack配置，了解各种loader，plugin的使用和自定义。
-* 很强的学习能力，曾今沧海难为水，学习了深度学习之后其他编程实践都是芸芸众生。
+* 很强的学习能力。
 * 国际日本语能力测试一级（一级是最高的，不是八级最高）。
 
 
@@ -50,3 +52,5 @@
   -参与了一些PHP的社区工作，如参与PHP开源框架Laravel的翻译工作,参考(https://learnku.com/users/22754/translations)
 
 * 2014.6-2016.8 日本渊本重工上海工厂  技术顾问助理&日语翻译
+
+* 2020.9 -2021.1 香港梦猷科技签约兼职远程前端开发工程师
