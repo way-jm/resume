@@ -11,13 +11,16 @@
 个人概况
 -------
 
-* 规规矩矩的前端儿，不靠谱的PHPer & Pythoner ，深度学习爱好者。
+* 规规矩矩的前端儿，不靠谱的Noder & Pythoner ，深度学习爱好者。
 * 喜欢助人为乐的开源开发者(xr-storage，Want，wayswipe) 。
-* 丰富的前端工作经验和一些后端(Base PHP)开发经验。
-* 熟悉Vue，React等MVVM框架，包括Vuex，Redux，Hooks，TypeScript，基于Umi和ant design的开发经验。
+* 丰富的前端工作经验和一些后端(Base PHP & Node)开发经验。
+* 熟悉Vue，React等MVVM框架，包括Vuex，Redux，Hooks，基于Umi和ant design的开发经验。
+* 丰富的TypeScript使用经验，Node,Koa2后端开发经验
+* Serverless,AWS Lambda 使用经验
+* 自构微前端框架，以及开源微前端框架qiankun，wujie的使用和改造老项目经验
 * 卓越的CSS能力，熟悉sass，less，stylus。
 * webVR 开发经验。
-* 原生微信小程序 & 小程序云开发
+* 原生微信小程序 & 小程序云开发 & 小程序云托管
 * 熟悉webpack配置，了解各种loader，plugin的使用和自定义。
 * 很强的学习能力。
 * 国际日本语能力测试一级（最高级别）。
@@ -30,16 +33,20 @@
 
 工作经历
 ------
-* 2021.9~  小米南京研发中心前端
+* 2022.4 -至今  HLI中国区(Human longevity Inc)
+   -AI 医疗平台Physician Terminal的前端主导开发
+   -用户端React-native 的开发
+   -BFF Node Serverless 的维护和升级
+   -主持企业级业务组件库的创建和维护
+   -前端架构的优化，拆分和升级工作
+   -前端组内的开发管理工作
+* 2021.8~2022.4  小米南京研发中心前端
    -前端组件库
    -项目构架代码的升级优化
    -交付多个有品电商商家端的业务前端项目。
+   （随着22年4月南京研发中心撤销，被裁员）
 
-* 2021.4—2021.9 个人项目[飞鸣视讯]
-   -致力于利用成熟的云服务，打造一款开源的远程教育工具。
-   -webRTC,富文本编辑器，React，Electron。
-
-* 2019.5—2021.6  安徽阡陌网络科技（芜湖） 前端工程师
+* 2019.5—2021.7  安徽阡陌网络科技（芜湖） 前端工程师
   -参与多个GIS项目的前端部分，包括湖南农业保险，芜湖水清岸绿项目，参与PC端展示页面，后台管理页面，移动端，和客户端混合开发等等。
 
   -通用脚手架，鉴于项目中很多同质化的模块可以共用，基于"约定生配置，配置生万物"的原则，基于React+Redux+redux-thunk+Hooks+ant design+TypeScript搭建了
