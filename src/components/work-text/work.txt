@@ -34,12 +34,12 @@
 工作经历
 ------
 * 2022.4 -至今  HLI中国区(Human longevity Inc)
-   -AI 医疗平台Physician Terminal的前端主导开发
+   -AI 医疗平台Physician Terminal(US Site和CN Site同码异构)的前端主导开发
    -用户端React-native 的开发
    -BFF Node Serverless 的维护和升级
    -主持企业级业务组件库的创建和维护
    -前端架构的优化，拆分和升级工作
-   -前端组内的开发管理工作
+   -和美国前端团队协同开发，共同维护合保障多个项目的迭代运行
 * 2021.8~2022.4  小米南京研发中心前端
    -前端组件库
    -项目构架代码的升级优化
